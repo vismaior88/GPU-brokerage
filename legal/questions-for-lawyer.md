@@ -95,6 +95,39 @@ _Last checked: 2026-11-09_
 
 ---
 
-## Questions from other research areas (to be merged)
+## 8. Compliance questions (US export-control / sanctions lawyer)
 
-_(Compliance / export control, tax and entity questions go here under their own headings.)_
+Merged on 2026-11-09 from the research files. Numbering continues from the sections above. Full context is in the "Questions for a lawyer" section of each named research file.
+
+| # | Pri | Question | Why it matters | Source file |
+|---|---|---|---|---|
+| 29 | P1 | Does a referral-fee or buyer-paid broker role count as "support" or "conducting negotiations" under EAR §744.6, or as "servicing" under General Prohibition 10? | Decides whether my core activity is itself regulated when a deal goes wrong | `research/export-controls.md` |
+| 30 | P1 | Is a pure referral (no money handled) "facilitation" under OFAC rules if the prospect turns out to be sanctioned? Which exact activities are prohibited? | Strict liability applies to the LLC | `research/sanctions-and-screening.md` |
+| 31 | P1 | Is my blanket refuse list (China/HK/Macau/Russia and others, by location, HQ or ultimate owner) lawful and sufficient, and how deep must ownership checks go for a company my size? | Sets the standard for every deal | `research/export-controls.md` |
+| 32 | P1 | Is the compliance policy, KYC checklist and screening log an adequate "risk-based compliance programme" for a one-person broker? What record is enough to show I did not "self-blind"? | My main defence if something goes wrong | `compliance/`, `research/enforcement-cases.md` |
+| 33 | P1 | As a non-US individual running a US LLC from Montenegro, are all my acts those of a "U.S. person"? Does my nationality change which regimes bind me personally? | Personal exposure | `research/export-controls.md`, `research/sanctions-and-screening.md` |
+| 34 | P2 | May I rely partly on a supplier's own KYC, or must I always run my own? | Workload and liability | `research/enforcement-cases.md` |
+| 35 | P2 | What end-use statement and contract clauses should buyers sign, and what should I require from suppliers about chip provenance? | Contract templates | `research/export-controls.md` |
+| 36 | P2 | If I later learn a referred customer was a front for a restricted party, what is my exposure, and when should I self-disclose? If a counterparty is a true SDN match, what reports must the LLC file? | Incident plan | `research/enforcement-cases.md`, `research/sanctions-and-screening.md` |
+| 37 | P2 | If the Remote Access Security Act or an IaaS KYC rule is enacted, would a broker be covered? What is the status of the BIS Affiliates Rule (suspended to 10 Jan 2027) and how does it affect screening? | Rules are changing | `research/export-controls.md` |
+| 38 | P3 | Any deal touching Syria, Venezuela or Belarus: is a licence needed? (Current policy: refuse.) | Only if policy is ever relaxed | `research/sanctions-and-screening.md` |
+| 39 | P3 | If I arrange a transfer of idle reserved capacity with the supplier's consent, who carries export-control and KYC responsibility? | Future opportunity | `research/opportunities.md` |
+| 40 | P3 | Does writing about compute futures or hedging in a newsletter, or introducing a buyer to a futures broker, risk CFTC "introducing broker" or "commodity trading advisor" status? | Current policy: no futures activity at all | `research/opportunities.md`, `research/pricing-and-indexes.md` |
+| 41 | P3 | Do I need a loan-broker licence to introduce a GPU owner to a lender for a fee? | Future opportunity | `research/opportunities.md` |
+| 42 | P3 | Could I be liable for negligent misrepresentation if I pass on supplier hardware claims that prove false? What are my obligations if hardware looks to be of suspicious origin? | Supplier vetting process | `research/supplier-verification.md` |
+
+## 9. Montenegro compliance and data protection (Montenegro lawyer)
+
+| # | Pri | Question | Why it matters | Source file |
+|---|---|---|---|---|
+| 43 | P1 | How do I access the Consolidated Register of Designated Persons, and does Art. 18 of the Law on Restrictive Measures apply to each referral I make for a foreign company? | Personal fines of €500–4,000 | `research/eu-uk-local-rules.md` |
+| 44 | P2 | Has the EU ban on GPU/AI services to Russian entities been transposed in Montenegro, and what is my personal exposure? | Refuse-list basis | `research/eu-uk-local-rules.md` |
+| 45 | P2 | Confirm that a compute/IT services broker is not an AML obliged entity (Art. 4). | Avoids a whole compliance regime | `research/eu-uk-local-rules.md` |
+| 46 | P2 | What must I do before Montenegro's new data protection law applies on 19 March 2027, and how can I lawfully keep KYC data on US-hosted tools for 10 years? | KYC records | `research/gdpr-and-data-residency.md` |
+| 47 | P3 | Does GDPR Art. 3(2) apply to my B2B brokerage, and do I need an EU representative (Art. 27)? Do cold B2B emails to EU contacts need specific steps? | Outreach and KYC on EU clients | `research/gdpr-and-data-residency.md`, `research/demand-side.md` |
+| 48 | P3 | If I sign Serbian suppliers or buyers, which Serbian rules apply? | Serbia is not aligned with EU Russia sanctions | `research/eu-uk-local-rules.md` |
+
+Tax and entity questions are kept separately in `finance/questions-for-accountant.md`.
+
+## If only one paid consultation is possible
+My recommendation: the **Montenegrin tax/legal consultation** comes first (question 26 plus the accountant questions), because that exposure exists from the first euro earned. Second: a fixed-fee session with a **US export/sanctions lawyer** on questions 29–33, sending the three `compliance/` files in advance. The general contract questions (1, 2, 7, 8, 11, 12) can wait until a first real supplier agreement is on the table.
