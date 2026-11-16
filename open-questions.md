@@ -1,12 +1,12 @@
 # Open questions
-_Last updated: 2026-11-09_
+_Last updated: 2026-11-16_
 
 Questions still unanswered, who can answer them, and priority. P1 = blocks progress or carries real risk; P2 = needed within 60 days; P3 = later. Detailed professional questions are in `legal/questions-for-lawyer.md` and `finance/questions-for-accountant.md`.
 
 ## For the founder
 | # | Pri | Question | Why it matters |
 |---|---|---|---|
-| F1 | P1 | Do you accept the proposed decisions 5–12 in `decisions/decision-log.md`? | Everything else follows from them. |
+| F1 | P1 | Do you accept the proposed decisions 5–14 in `decisions/decision-log.md`? | Everything else follows from them. |
 | F2 | P1 | Which US state is the LLC formed in, when was it formed, does it have an EIN and a bank account, and have Form 5472 filings been made for past years? | A missed 5472 carries a $25,000 penalty per year. |
 | F3 | P1 | Do you want to attend DSC Europe in Belgrade (23–27 November, €350 + VAT for one day)? | Only relevant paid event soon; uses a large share of the budget. |
 | F4 | P2 | What is your citizenship (and any second one)? | Changes which sanctions regimes bind you personally. |
@@ -41,6 +41,8 @@ Questions still unanswered, who can answer them, and priority. P1 = blocks progr
 | S2 | P1 | Will they sign with a new one-person, foreign-owned US LLC? |
 | S3 | P2 | Do their terms allow the partner to charge the buyer a separate disclosed fee? |
 | S4 | P2 | Test-access policy, SLA, and KYC they run on referred customers. |
+| S6 | P3 | LuxProvide, IT4I, CSC: do they accept referral partners for commercial access, and at what H100/H200 price? |
+| S7 | P3 | Serbia's State Data Centre (Kragujevac): colocation prices and whether paid GPU access for companies is planned. |
 | S5 | P2 | Orion Telekom (Belgrade): is its GPU service open to outside customers, and is there any partner arrangement? |
 
 ## Could not be verified in research (re-check)

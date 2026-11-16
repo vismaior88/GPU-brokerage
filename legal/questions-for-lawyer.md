@@ -131,3 +131,15 @@ Tax and entity questions are kept separately in `finance/questions-for-accountan
 
 ## If only one paid consultation is possible
 My recommendation: the **Montenegrin tax/legal consultation** comes first (question 26 plus the accountant questions), because that exposure exists from the first euro earned. Second: a fixed-fee session with a **US export/sanctions lawyer** on questions 29–33, sending the three `compliance/` files in advance. The general contract questions (1, 2, 7, 8, 11, 12) can wait until a first real supplier agreement is on the table.
+
+## 10. Government and public compute (added 2026-11-16)
+
+Context: `research/government-compute.md`. All P3 unless the founder starts dealing with public centres.
+
+| # | Pri | Question |
+|---|---|---|
+| 49 | P3 | Can a public HPC centre (e.g. LuxProvide, IT4I, CSC, IZUM) lawfully pay a commission to a non-EU referral agent, or would that need public procurement on its side? Does it change if the centre is a state-owned private company? |
+| 50 | P2 | Under the FCPA and Serbian/Montenegrin law, which public-centre and state-telecom staff count as "foreign officials", and what hospitality is acceptable? |
+| 51 | P3 | Would introducing a client to Serbia's Office for IT and eGovernment (e.g. for Kragujevac colocation) count as lobbying under Serbia's or Montenegro's lobbying laws? |
+| 52 | P3 | May I charge a flat fee or a success fee for helping a client apply for free EuroHPC or National AI Platform access, and is either inconsistent with programme terms? |
+| 53 | P2 | What disclosure wording should the buyer agreement contain when I both point a client to free public compute and earn a commission on paid compute? |

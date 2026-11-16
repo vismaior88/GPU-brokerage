@@ -82,3 +82,6 @@ How to choose on a small budget:
 14. PwC, Montenegro – Individual income determination — https://taxsummaries.pwc.com/montenegro/individual/income-determination — checked 2026-11-09
 15. PwC, Montenegro – Corporate other taxes (VAT threshold) — https://taxsummaries.pwc.com/montenegro/corporate/other-taxes — checked 2026-11-09
 16. KPMG Montenegro, Tax Alert: Amendments to the VAT Law (March 2026) — https://assets.kpmg.com/content/dam/kpmgsites/me/pdf/2026/03/KPMG-Tax-Alert-Amendments-to-the-VAT-Law-in-Montenegro-March-2026.pdf.coredownload.inline.pdf — checked 2026-11-09
+
+## Added 2026-11-16 (government and public compute)
+- If a referral fee is ever paid by an EU public body to the US LLC, what withholding, VAT reverse-charge or invoicing rules apply, and how does this interact with Montenegrin tax residence? (Low priority; see `research/government-compute.md`.)
