@@ -14,6 +14,7 @@ Questions still unanswered, who can answer them, and priority. P1 = blocks progr
 | F6 | P2 | What business name and domain do you want to trade under? | Needed for website, email and outreach. |
 | F8 | P2 | Do you want to run a 6-week test of the Western Balkans tender-intelligence idea (about $300–800), alongside or instead of the brokerage? | Sets the main business for 2027. |
 | F9 | P3 | Do you know anyone technical (data or ML engineer) who might partner on a data product? | About 25 of 33 ideas need one. |
+| F10 | P2 | Do you want to run a 6-week test of EUDR evidence packs for Balkan wood/furniture exporters ($0–150; 15 interviews, 3 free pilots; continue only if 2+ agree to a paid pilot)? Time-sensitive: the rules apply from 30 Dec 2026. | Compare with F8 (tender intelligence); pick at most one test. |
 | F7 | P2 | How many months can you work without income from this? | Sets the real stop date. |
 
 ## For a Montenegrin accountant / lawyer
