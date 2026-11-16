@@ -6,12 +6,14 @@ Questions still unanswered, who can answer them, and priority. P1 = blocks progr
 ## For the founder
 | # | Pri | Question | Why it matters |
 |---|---|---|---|
-| F1 | P1 | Do you accept the proposed decisions 5–14 in `decisions/decision-log.md`? | Everything else follows from them. |
+| F1 | P1 | Do you accept the proposed decisions 5–15 in `decisions/decision-log.md`? | Everything else follows from them. |
 | F2 | P1 | Which US state is the LLC formed in, when was it formed, does it have an EIN and a bank account, and have Form 5472 filings been made for past years? | A missed 5472 carries a $25,000 penalty per year. |
 | F3 | P1 | Do you want to attend DSC Europe in Belgrade (23–27 November, €350 + VAT for one day)? | Only relevant paid event soon; uses a large share of the budget. |
 | F4 | P2 | What is your citizenship (and any second one)? | Changes which sanctions regimes bind you personally. |
 | F5 | P2 | Any existing contacts at all in AI startups, universities, telecoms or data centres in the region? | Warm introductions close far faster than cold outreach. |
 | F6 | P2 | What business name and domain do you want to trade under? | Needed for website, email and outreach. |
+| F8 | P2 | Do you want to run a 6-week test of the Western Balkans tender-intelligence idea (about $300–800), alongside or instead of the brokerage? | Sets the main business for 2027. |
+| F9 | P3 | Do you know anyone technical (data or ML engineer) who might partner on a data product? | About 25 of 33 ideas need one. |
 | F7 | P2 | How many months can you work without income from this? | Sets the real stop date. |
 
 ## For a Montenegrin accountant / lawyer
