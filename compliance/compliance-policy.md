@@ -14,7 +14,7 @@ This is the plain-language policy I follow on **every** deal. It is deliberately
 
 **Rule 1 — No screening, no introduction.** I do not introduce a buyer to a supplier, or share one party's details with the other, until the KYC checklist (`kyc-checklist.md`) is complete and saved.
 
-**Rule 2 — Refuse list.** I refuse any deal where the buyer, end user, payer, supplier, or any owner or controller of them:
+**Rule 2 — Refuse list (GPU and compute deals).** For any deal involving GPUs, compute capacity, data-centre space or AI hardware, I refuse it where the buyer, end user, payer, supplier, or any owner or controller of them:
 - appears on a US, EU, UK, UN or Montenegrin restricted-party list, or is 50% or more owned by listed persons;
 - is located in, headquartered in, or ultimately owned or controlled from: **China, Hong Kong, Macau, Russia, Belarus, Iran, North Korea, Cuba, Syria, Venezuela, or the occupied regions of Ukraine** (Crimea, Donetsk, Luhansk);
 - wants compute for military, intelligence, weapons, mass-surveillance or defence-research purposes (allied-government work goes to a lawyer first);
@@ -51,6 +51,21 @@ This is the plain-language policy I follow on **every** deal. It is deliberately
 **Rule 13 — Stay current.** I check for rule changes on the first working day of each month (BIS, OFAC, EU sanctions, the Remote Access Security Act, any new US AI chip rule) and update this policy. Next scheduled check: 2026-12-01.
 
 **Rule 14 — When in doubt, stop.** If I suspect a past or current deal involved a violation, I stop work on it, change nothing in the records, and speak to a lawyer about voluntary self-disclosure before doing anything else.
+
+## 2a. Scope: businesses that do not involve GPUs or compute
+_Decided by the founder on 2026-11-18 (decision 16)._
+
+The country refuse list in Rule 2 exists because of US export controls on advanced AI chips and on access to them. It applies only to GPU, compute, data-centre and AI-hardware deals.
+
+For other lines of business (for example satellite-imagery services, EU deforestation-rule evidence packs, tender or public-records data products), Chinese companies, including state-owned ones, **may be customers**. These rules still apply to every customer in every business:
+- **Sanctions screening** against US, EU, UK, UN and Montenegrin lists (Rules 1, 11 and 12). A listed party, or a company 50% or more owned by listed parties, is refused.
+- **Comprehensively sanctioned places stay refused**: Cuba, Iran, North Korea and occupied Crimea, Donetsk and Luhansk. Russian and Belarusian customers stay refused under the EU and Montenegrin sanctions that bind me personally.
+- **No military, intelligence, weapons or surveillance-of-people work**, whoever the customer is.
+- **Payments**: bank transfer from the screened company only (Rule 6).
+- **Lawyer check before the first deal with a Chinese state-owned company**, to confirm no US list or rule applies to that specific company and that type of service. Some Chinese state-owned groups appear on US lists that restrict particular activities; the screening and the lawyer check catch these.
+- **Data leaving the business**: if a product ever involves sensitive data, advanced software or technology that could be export-controlled, check before supplying it to any foreign customer.
+
+If a non-compute business later starts to involve GPUs, compute capacity or AI hardware for the customer, Rule 2 applies again in full.
 
 ## 3. What is generally fine (after screening)
 - Buyers headquartered and owned in the US, EU/EEA, UK, Switzerland, Canada, Japan, Australia and similar allied countries, using capacity located in those countries.

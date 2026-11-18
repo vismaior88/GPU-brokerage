@@ -143,3 +143,10 @@ Context: `research/government-compute.md`. All P3 unless the founder starts deal
 | 51 | P3 | Would introducing a client to Serbia's Office for IT and eGovernment (e.g. for Kragujevac colocation) count as lobbying under Serbia's or Montenegro's lobbying laws? |
 | 52 | P3 | May I charge a flat fee or a success fee for helping a client apply for free EuroHPC or National AI Platform access, and is either inconsistent with programme terms? |
 | 53 | P2 | What disclosure wording should the buyer agreement contain when I both point a client to free public compute and earn a commission on paid compute? |
+
+## 11. Non-compute businesses (added 2026-11-18)
+
+| # | Pri | Question |
+|---|---|---|
+| 54 | P2 | Before a first deal with a Chinese state-owned company (e.g. POWERCHINA on Montenegro's Bar–Boljare motorway) for a non-compute service such as satellite-based ground-movement monitoring: does any US list or rule (OFAC, BIS Entity List, other restricted-party lists) restrict my US LLC from providing that service to that specific group or its subsidiaries? |
+| 55 | P3 | Could satellite-derived infrastructure data (e.g. ground-movement maps of roads or dams) be export-controlled or sensitive when supplied to a foreign state-owned contractor? |
