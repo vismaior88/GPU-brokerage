@@ -15,7 +15,7 @@ Questions still unanswered, who can answer them, and priority. P1 = blocks progr
 | F8 | P2 | Do you want to run a 6-week test of the Western Balkans tender-intelligence idea (about $300–800), alongside or instead of the brokerage? | Sets the main business for 2027. |
 | F9 | P3 | Do you know anyone technical (data or ML engineer) who might partner on a data product? | About 25 of 33 ideas need one. |
 | F10 | P2 | Do you want to run a 6-week test of EUDR evidence packs for Balkan wood/furniture exporters ($0–150; 15 interviews, 3 free pilots; continue only if 2+ agree to a paid pilot)? Time-sensitive: the rules apply from 30 Dec 2026. | Compare with F8 (tender intelligence); pick at most one test. |
-| F11 | P3 | Do you want to test a referral partnership for wildfire/vegetation-risk vendors (LiveEO, Overstory, AiDASH) with grid owners in Greece, Cyprus, Portugal and Turkey? $0–100, ~10 h/week for 6 weeks; continue only with written commission terms and 2+ grid owners agreeing to a vendor demo. | Competes for time with F8 and F10. |
+| F11 | P2 | Do you want to test the hybrid wildfire option: hand-made pre-fire-season risk packs for Greek private wind-farm and PV-park owners (first paid pilots before the 2027 fire season), and refer any utility lead to LiveEO/Overstory? 6-week test $0–300; continue only if 2+ owners commit to a paid pilot of €500+ and one Greek partner (engineer or maintenance firm) agrees to co-deliver. See `research/wildfire-build-option.md`. | Competes for time with F8 and F10. |
 | F7 | P2 | How many months can you work without income from this? | Sets the real stop date. |
 
 ## For a Montenegrin accountant / lawyer
