@@ -12,6 +12,7 @@ _Updated: 2026-11-16_
 - **2026-11-16:** researched government/public data-centre compute (`research/government-compute.md`): not a business line on its own; proposed decision 14.
 - **2026-11-16:** researched startups that use public compute themselves (`research/public-compute-for-startups.md`, `research/public-compute-startup-ideas.md`): useful only as a one-off R&D boost; proposed decision 15.
 - **2026-11-16:** researched satellite-imagery (EO) ideas (`research/satellite-imagery-ideas.md`): best quick test is EUDR evidence packs for Balkan wood exporters (rules apply 30 Dec 2026); see open question F10.
+- **2026-11-18:** researched wildfire and vegetation risk as a global market (`research/wildfire-vegetation-risk-global.md`): still "Maybe"; only realistic route is referral partner of an existing vendor (LiveEO has the only public partner programme); see open question F11.
 - **Next rule check:** 2026-12-01 (export controls and sanctions change often).
 
 ## Start here
@@ -52,7 +53,7 @@ _Updated: 2026-11-16_
 | Q25 (EU, UK, Montenegro, Serbia rules) | `research/eu-uk-local-rules.md` |
 | Q26, Q27, Q29 (tax, VAT, structure) | `finance/tax-notes.md` |
 | Q28 (payments and banking) | `research/payments-and-banking.md` |
-| Section 5 (other opportunities) | `research/opportunities.md`, `research/government-compute.md`, `research/public-compute-for-startups.md`, `research/public-compute-startup-ideas.md`, `research/satellite-imagery-ideas.md` |
+| Section 5 (other opportunities) | `research/opportunities.md`, `research/government-compute.md`, `research/public-compute-for-startups.md`, `research/public-compute-startup-ideas.md`, `research/satellite-imagery-ideas.md`, `research/wildfire-vegetation-risk-global.md` |
 | Section 6 (edge cases and compliance risks) | `research/export-controls.md`, `research/enforcement-cases.md`, `research/sanctions-and-screening.md`, `research/gdpr-and-data-residency.md` |
 
 ## Reading the research
